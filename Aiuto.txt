@@ -1,0 +1,35 @@
+TUTTI I PROBLEMI COMUNI TROVANO QUI CON UNA RISOLUZIONE.
+
+Chiusura immediata - aiuto 1.
+Se lo strumento si chiude immediatamente, allora fai questo
+
+1. apri il terminale
+
+2. cd C:\Users\uruser\Downloads\VanishRaider-main\VanishRaider-main
+sostituisci uruser con il tuo attuale nome utente del PC
+
+3. digita Vanish.exe
+
+non dovrebbe chiudersi immediatamente, dovrebbe dirti l'errore, se conosci l'errore allora correggilo. se non lo fai contatta @.cix2 su Discord.
+
+Formato token - aiuto 2.
+poiché alcune persone non sanno qual è il formato del token. lo hanno inserito nel formato sbagliato. e lo strumento non funziona se è così questo è il formato
+
+esempio token
+esempio token
+esempio token
+ecc
+
+bloccato durante lo scraping dei membri - aiuto 3.
+A volte si blocca durante lo scraping dei membri ecco cosa puoi fare
+
+tutti i token devono essere nel server
+devi cancellare il file (tokens.txt) e mettere i token nel formato (aiuto 2 se non conosci il formato)
+hai bisogno di 4-5 token (dipende da quanto è grande il server)
+e il canale deve essere visibile per i token
+
+Token - aiuto 4
+no
+
+altro aiuto?
+se hai bisogno di altro aiuto apri un ti
