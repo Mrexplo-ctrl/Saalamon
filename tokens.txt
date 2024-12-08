@@ -1,0 +1,7 @@
+| -------------------|
+| formato token |
+| -------------------|
+TOKEN
+TOKEN
+TOKEN
+^^^^^^^^FORMATO,,, RIMUOVI TUTTO QUESTO E AGGIUNGI TOKEN IN FORMATO, SUPPORTA SOLO TOKEN MT RN
